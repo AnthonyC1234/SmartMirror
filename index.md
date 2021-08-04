@@ -1,10 +1,10 @@
 ﻿# Smart Mirror
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-<center>
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Anthony Clement | Brooklyn college academy | Electrical Engineering | Incoming Senior
-</center>
+
 ![Headstone Image](https://th.bing.com/th/id/R.9271a764943c3ad83167a8ff95200ddc?rik=gB6ZD9chnq%2b2tQ&pid=ImgRaw&r=0)
   
 # Final Milestone
