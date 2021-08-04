@@ -1,6 +1,5 @@
 ﻿# Smart Mirror
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-
+At Blue Stamp I am crating a smart mirrior using magic mirrior my goal is to have multiple modules all functioning on this smart mirrior.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Anthony Clement | Brooklyn college academy | Electrical Engineering | Incoming Senior
