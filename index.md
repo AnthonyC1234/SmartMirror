@@ -1,5 +1,6 @@
 ﻿# Smart Mirror
-At Blue Stamp I am crating a smart mirrior using magic mirrior my goal is to have multiple modules all functioning on this smart mirrior.
+At Blue Stamp I am creating a smart mirrior using magic mirrior my goal is to have multiple modules all functioning on this smart mirrior.
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Anthony Clement | Brooklyn college academy | Electrical Engineering | Incoming Senior
