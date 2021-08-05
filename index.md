@@ -21,4 +21,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up and hooking up the Raspberry. I had to install magic mirror on raspian which gave my access to the default layout of magic mirror. From there I removed the compliments module and basic weather module. I replaced the basic weather with a 3 day weather module. I also added a touch screen module and a wallpaper rotation from fire tv screen savers.   
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=EdSLCfEAQ74&feature=youtu.be "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone][![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628087026/video_to_markdown/images/youtube--EdSLCfEAQ74-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/EdSLCfEAQ74 "First Milestone"){:target="_blank" rel="noopener"}
