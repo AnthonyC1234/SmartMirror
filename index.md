@@ -5,12 +5,12 @@ At Blue Stamp I am creating a smart mirror using magic mirror. My goal is to hav
 |:--:|:--:|:--:|:--:|
 | Anthony Clement | Brooklyn college academy | Electrical Engineering | Incoming Senior
 
-<center> ![Headstone Image](https://th.bing.com/th/id/R.9271a764943c3ad83167a8ff95200ddc?rik=gB6ZD9chnq%2b2tQ&pid=ImgRaw&r=0) </center>
+![Headstone Image](https://th.bing.com/th/id/R.9271a764943c3ad83167a8ff95200ddc?rik=gB6ZD9chnq%2b2tQ&pid=ImgRaw&r=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
-<img src="https://www.bing.com/th?id=OIP.faqwMPzf8TKZf-BECxNEAQHaHa&w=204&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="funny GIF" width="100%">
+<center> <img src="https://www.bing.com/th?id=OIP.faqwMPzf8TKZf-BECxNEAQHaHa&w=204&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="funny GIF" width="100%"> </center>
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
