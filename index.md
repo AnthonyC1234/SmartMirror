@@ -8,13 +8,13 @@ At Blue Stamp I am creating a smart mirror using magic mirror. My goal is to hav
 ![Headstone Image](https://th.bing.com/th/id/R.9271a764943c3ad83167a8ff95200ddc?rik=gB6ZD9chnq%2b2tQ&pid=ImgRaw&r=0)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+<center> TBD </center>
 
 <center> <img src="https://www.bing.com/th?id=OIP.faqwMPzf8TKZf-BECxNEAQHaHa&w=204&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="funny GIF" width="100%"> </center>
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+<center> TBD </center>
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+<center> <img src="https://www.bing.com/th?id=OIP.faqwMPzf8TKZf-BECxNEAQHaHa&w=204&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="funny GIF" width="100%"> </center>
 # First Milestone
   
 
