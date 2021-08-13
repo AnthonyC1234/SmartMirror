@@ -10,13 +10,15 @@ At Blue Stamp I am creating a smart mirror using magic mirror. My goal is to hav
 # Final Milestone
 <center> TBD </center>
 
-<center> <img src="https://www.bing.com/th?id=OIP.faqwMPzf8TKZf-BECxNEAQHaHa&w=204&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="funny GIF" width="100%"> </center>
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628864998/video_to_markdown/images/youtube--B2FP0Yu6XaE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/B2FP0Yu6XaE "Final Milestone")
+
 # Second Milestone
 
 
 For my second milestone I added a few new modules I added a smart phone control module that would allow my to control my mirror modules and settings from my phone. I have also added a voice assistant that I named Jarvis. This voice assistant would be able to activate and deactivate modules depending on what I would like to see. Since my first milestone Ive also included the touch screen overlay to inable the touch screen module.
 
 [![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1628860975/video_to_markdown/images/youtube--WpXtvNBv_AU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/WpXtvNBv_AU "Milestone 2")
+
 # First Milestone
   
 
