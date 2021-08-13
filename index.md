@@ -7,8 +7,10 @@ At Blue Stamp I am creating a smart mirror using magic mirror. My goal is to hav
 
 ![Headstone Image](https://th.bing.com/th/id/R.9271a764943c3ad83167a8ff95200ddc?rik=gB6ZD9chnq%2b2tQ&pid=ImgRaw&r=0)
   
-# Final Milestone
-<center> TBD </center>
+# Reflection
+
+
+During my time at BlueStamp Engineering I have learned a little about Javascript while working in my terminal this has made me realize for the future since I intend on majoring in engineering I should learn more code.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628864998/video_to_markdown/images/youtube--B2FP0Yu6XaE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/B2FP0Yu6XaE "Final Milestone")
 
