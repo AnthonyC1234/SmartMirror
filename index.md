@@ -14,7 +14,7 @@ At Blue Stamp I am creating a smart mirror using magic mirror. My goal is to hav
 # Second Milestone
 <center> TBD </center>
 
-<center> <img src="https://www.bing.com/th?id=OIP.faqwMPzf8TKZf-BECxNEAQHaHa&w=204&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="funny GIF" width="100%"> </center>
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1628860975/video_to_markdown/images/youtube--WpXtvNBv_AU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/WpXtvNBv_AU "Milestone 2")
 # First Milestone
   
 
